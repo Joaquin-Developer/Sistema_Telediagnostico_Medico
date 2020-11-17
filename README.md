@@ -1,6 +1,6 @@
 ## Sistema de Telediagnóstico
 
-Aplicaciónes desarrolladas en .NET para el proyecto de pasaje de grado del bachillerato tecnológico en informática (2020)
+Aplicaciónes desarrolladas en .NET para el proyecto de pasaje de grado del bachillerato tecnológico en informática 
 ### Sistema Telediagnóstico:
 Coinsiste en la realización de un Auto-diagnóstico, a partír de síntomas indicados por el paciente, en el cual se 
 obtiene una o mas de una patología que pueda padecer dicho paciente.
