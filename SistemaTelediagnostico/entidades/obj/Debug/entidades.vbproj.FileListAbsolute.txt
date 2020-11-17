@@ -1,0 +1,97 @@
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbprojAssemblyReference.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\WinFormAnimation.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CopyComplete
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CopyComplete
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\bin\Debug\WinFormAnimation.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb
+D:\ \SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+D:\ \SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+D:\ \SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+D:\ \SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.dll
+D:\ \SistemaTelediagnostico\entidades\bin\Debug\WinFormAnimation.dll
+D:\ \SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.xml
+D:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+D:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+D:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+D:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CopyComplete
+D:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+D:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+D:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb
+E:\ \SistemaTelediagnostico\entidades\bin\Debug\entidades.dll
+E:\ \SistemaTelediagnostico\entidades\bin\Debug\entidades.pdb
+E:\ \SistemaTelediagnostico\entidades\bin\Debug\entidades.xml
+E:\ \SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.dll
+E:\ \SistemaTelediagnostico\entidades\bin\Debug\WinFormAnimation.dll
+E:\ \SistemaTelediagnostico\entidades\bin\Debug\CircularProgressBar.xml
+E:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.Resources.resources
+E:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.GenerateResource.cache
+E:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CoreCompileInputs.cache
+E:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.vbproj.CopyComplete
+E:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.dll
+E:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.xml
+E:\ \SistemaTelediagnostico\entidades\obj\Debug\entidades.pdb

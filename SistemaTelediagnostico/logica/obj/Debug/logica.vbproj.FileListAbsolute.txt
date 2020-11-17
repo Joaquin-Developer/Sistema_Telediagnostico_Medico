@@ -1,0 +1,352 @@
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+D:\ \SistemaTelediagnostico\logica\bin\Debug\logica.dll
+D:\ \SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+D:\ \SistemaTelediagnostico\logica\bin\Debug\logica.xml
+D:\ \SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+D:\ \SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+D:\ \SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+D:\ \SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+D:\ \SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+D:\ \SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+D:\ \SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+D:\ \SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+D:\ \SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.dll
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.xml
+D:\ \SistemaTelediagnostico\logica\obj\Debug\logica.pdb
+E:\ \SistemaTelediagnostico\logica\bin\Debug\logica.dll
+E:\ \SistemaTelediagnostico\logica\bin\Debug\logica.pdb
+E:\ \SistemaTelediagnostico\logica\bin\Debug\logica.xml
+E:\ \SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.dll
+E:\ \SistemaTelediagnostico\logica\bin\Debug\entidades.dll
+E:\ \SistemaTelediagnostico\logica\bin\Debug\persistencia.dll
+E:\ \SistemaTelediagnostico\logica\bin\Debug\WinFormAnimation.dll
+E:\ \SistemaTelediagnostico\logica\bin\Debug\entidades.pdb
+E:\ \SistemaTelediagnostico\logica\bin\Debug\entidades.xml
+E:\ \SistemaTelediagnostico\logica\bin\Debug\persistencia.pdb
+E:\ \SistemaTelediagnostico\logica\bin\Debug\persistencia.xml
+E:\ \SistemaTelediagnostico\logica\bin\Debug\CircularProgressBar.xml
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbprojAssemblyReference.cache
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.Español.resources
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.Ingles.resources
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.Resources.resources
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.GenerateResource.cache
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CoreCompileInputs.cache
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.vbproj.CopyComplete
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.dll
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.xml
+E:\ \SistemaTelediagnostico\logica\obj\Debug\logica.pdb

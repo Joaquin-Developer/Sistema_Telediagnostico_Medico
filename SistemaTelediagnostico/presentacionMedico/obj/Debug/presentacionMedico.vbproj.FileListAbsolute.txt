@@ -1,0 +1,478 @@
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\enzow\Downloads\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+D:\Tech-Vibe\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\panqueque12\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\proyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\Ee\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormInicial.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\ss\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\maxil\OneDrive\Escritorio\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\r\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Solucionproyecto\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\bb\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+E:\ \Aplicaciones_Tech-Vibe-master\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\alumno\Desktop\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\oo\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+D:\ \Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+C:\Users\enzow\Desktop\nuew\Aplicaciones_Tech-Vibe-master\SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+D:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+D:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe.config
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.exe
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.pdb
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\presentacionMedico.xml
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.dll
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.dll
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.dll
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.dll
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\WinFormAnimation.dll
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.pdb
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\entidades.xml
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.pdb
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\logica.xml
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.pdb
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\persistencia.xml
+E:\ \SistemaTelediagnostico\presentacionMedico\bin\Debug\CircularProgressBar.xml
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbprojAssemblyReference.cache
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormCarga.resources
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormChatMedico.resources
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.FormPrincipalMedico.resources
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.LoginMedico.resources
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.Resources.resources
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.GenerateResource.cache
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CoreCompileInputs.cache
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.vbproj.CopyComplete
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.exe
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.xml
+E:\ \SistemaTelediagnostico\presentacionMedico\obj\Debug\presentacionMedico.pdb

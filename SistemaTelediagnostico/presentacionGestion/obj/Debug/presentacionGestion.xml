@@ -1,0 +1,352 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+presentacionGestion
+</name>
+</assembly>
+<members>
+<member name="T:presentacionGestion.My.Resources.Español">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.btn_medico">
+<summary>
+  Busca una cadena traducida similar a Medicos.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.btn_paciente">
+<summary>
+  Busca una cadena traducida similar a Paciente.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.btn_sint">
+<summary>
+  Busca una cadena traducida similar a Sintomas.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.btnpato">
+<summary>
+  Busca una cadena traducida similar a PATOLOGIAS.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_admin">
+<summary>
+  Busca una cadena traducida similar a LOGIN - ADMINISTRADOR.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_admins">
+<summary>
+  Busca una cadena traducida similar a Administrador:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_agregar">
+<summary>
+  Busca una cadena traducida similar a Agregar.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_altura">
+<summary>
+  Busca una cadena traducida similar a Altura:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_apellido1">
+<summary>
+  Busca una cadena traducida similar a Primer Apellido.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_apellido2">
+<summary>
+  Busca una cadena traducida similar a Segundo Apellido:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_bienvenida">
+<summary>
+  Busca una cadena traducida similar a Bienvenido!.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_calle">
+<summary>
+  Busca una cadena traducida similar a Calle:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_cedula">
+<summary>
+  Busca una cadena traducida similar a Cedula:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_ciudad">
+<summary>
+  Busca una cadena traducida similar a Id Ciudad:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.Label_contra">
+<summary>
+  Busca una cadena traducida similar a CONTRASEÑA.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_creditos">
+<summary>
+  Busca una cadena traducida similar a Desarrollado por tech-vibe.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_descrip">
+<summary>
+  Busca una cadena traducida similar a Descripcion:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_eliminar">
+<summary>
+  Busca una cadena traducida similar a Eliminar.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_email">
+<summary>
+  Busca una cadena traducida similar a Correo:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_especialidad">
+<summary>
+  Busca una cadena traducida similar a Especialidad:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_fecha">
+<summary>
+  Busca una cadena traducida similar a FECHA:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_fnaci">
+<summary>
+  Busca una cadena traducida similar a Fecha de Nacimiento.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_hora">
+<summary>
+  Busca una cadena traducida similar a HORA:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_ingresar">
+<summary>
+  Busca una cadena traducida similar a INICIAR SESION.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_menu">
+<summary>
+  Busca una cadena traducida similar a MENU DE GESTION.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_modificar">
+<summary>
+  Busca una cadena traducida similar a Modificar.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_mort">
+<summary>
+  Busca una cadena traducida similar a Mortalidad:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_mostra">
+<summary>
+  Busca una cadena traducida similar a Mostrar contraseña.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_nombre1">
+<summary>
+  Busca una cadena traducida similar a Primer Nombre:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_nombre2">
+<summary>
+  Busca una cadena traducida similar a Segundo Nombre:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_nombreus">
+<summary>
+  Busca una cadena traducida similar a Nombre de Usuario:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_numpuerta">
+<summary>
+  Busca una cadena traducida similar a Numero de puerta:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_osler">
+<summary>
+  Busca una cadena traducida similar a OSLER-Sistema de Telediagnostico.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_recom">
+<summary>
+  Busca una cadena traducida similar a Recomendación:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_sexo">
+<summary>
+  Busca una cadena traducida similar a Sexo:.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.Label_Usuario">
+<summary>
+  Busca una cadena traducida similar a USUARIO.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Español.label_weight">
+<summary>
+  Busca una cadena traducida similar a Peso:.
+</summary>
+</member>
+<member name="T:presentacionGestion.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.ajustes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.altura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.altura__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.cerrarSesión">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Close_Icon">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.doc">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.doc1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.doc2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.doc21">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.doctor">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Doctora">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.dolorPie">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Enfermedad">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.fondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.ICON_CERRARF">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.ICON_CERRARV">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Icono_Maximizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Icono_Minimizar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Icono_Restaurar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Logo_OSLER">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Menu_icon_icons_com_55865">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Paciente">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Paciente1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.Patologia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:presentacionGestion.My.Resources.Resources.sintomas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
